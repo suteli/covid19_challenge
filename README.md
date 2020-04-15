@@ -1,5 +1,5 @@
 ## COVID-19 Data Analysis
-Team Disinfectant Wipes
+- Team Disinfectant Wipes
 
 This is a data analysis project of COVID-19 for UCD MSBA Hackathon.
 
